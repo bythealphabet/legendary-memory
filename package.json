@@ -1,0 +1,10 @@
+{
+  "name": "webpack-typescript-template",
+  "version": "1.0.0",
+  "description": "A template that can be used when starting a new MERN Stack project",
+  "main": "server/server.ts",
+  "repository": "https://github.com/bythealphabet/legendary-memory.git",
+  "author": "D.Isaac Lucas",
+  "license": "MIT",
+  "private": true
+}
